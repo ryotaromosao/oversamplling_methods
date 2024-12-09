@@ -4,7 +4,7 @@ author: "RyotaK"
 title: "Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection"
 date: 2024-12-06
 tags: ["Security", "Hash collision", "OpenWrt", "Command injection", "SHA-256", "Supply chain"]
-thumbnail: /research/compromising-openwrt-supply-chain-sha256-collision/thumbnail.png
+thumbnail: /static/thumbnail.png
 ---
 
 ## Introduction
