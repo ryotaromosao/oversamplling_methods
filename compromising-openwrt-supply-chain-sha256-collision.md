@@ -17,7 +17,7 @@ A few days ago, I was upgrading my home lab network, and I decided to upgrade th
 After reading the description, I found that it states it builds new firmware using an online service.
 
 <center>
-    <img alt="The attended sysupgrade service allows to easily upgrade vanilla and custom firmware images. This is done by building a new firmware on demand via an online service." src="/research/compromising-openwrt-supply-chain-sha256-collision/01.png">
+    <img alt="The attended sysupgrade service allows to easily upgrade vanilla and custom firmware images. This is done by building a new firmware on demand via an online service." src="/static/01.png">
 </center>
 
 At this point, I was curious about how it works, so I decided to investigate about it.  
